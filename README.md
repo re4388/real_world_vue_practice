@@ -1,23 +1,6 @@
-[![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-# ![RealWorld Example App](./static/rwv-logo.png)
-
-> Vue.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
-
-Project demo is available at https://vue-vuex-realworld.netlify.com/#/
-
-This codebase was created to demonstrate a fully fledged fullstack application built with **Vue.js** including CRUD operations, authentication, routing, pagination, and more.
-
-We've gone to great lengths to adhere to the **Vue.js** community styleguides & best practices.
-
-For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
-
-
-
 ## Personal Note
 
-### fork from [RealWorld](https://github.com/gothinkster/realworld) spec and API.
+### fork from [RealWorld](https://github.com/gothinkster/realworld)
 
 
 ### 架構
